@@ -8,14 +8,15 @@
     "windows": "react-native run-windows",
     "lint": "eslint .",
     "start": "react-native start",
-    "test": "jest"
+    "test": "jest --verbose"
   },
   "dependencies": {
     "@nozbe/watermelondb": "^0.27.1",
+    "@tabler/icons-react-native": "^3.14.0",
+    "nativewind": "^2.0.11",
     "react": "18.3.1",
     "react-native": "0.75.2",
-    "react-native-windows": "latest",
-    "styled-components": "^6.1.13"
+    "react-native-windows": "latest"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
@@ -28,6 +29,7 @@
     "@react-native/eslint-config": "0.75.2",
     "@react-native/metro-config": "0.75.2",
     "@react-native/typescript-config": "0.75.2",
+    "@testing-library/react-native": "^12.6.1",
     "@types/react": "^18.2.6",
     "@types/react-test-renderer": "^18.0.0",
     "babel-jest": "^29.6.3",
@@ -36,6 +38,7 @@
     "metro-config": "^0.80.10",
     "prettier": "2.8.8",
     "react-test-renderer": "18.3.1",
+    "tailwindcss": "3.3.2",
     "typescript": "5.0.4"
   },
   "engines": {

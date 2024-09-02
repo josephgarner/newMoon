@@ -52,11 +52,2161 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="PropertySheet.props" />
+    <None Include="Assets\filled\accessible.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\ad.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\ad-circle.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\adjustments.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\affiliate.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\alarm.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\alarm-minus.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\alarm-plus.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\alarm-snooze.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\alert-circle.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\alert-hexagon.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\alert-octagon.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\alert-square.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\alert-square-rounded.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\alert-triangle.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\alien.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\align-box-bottom-center.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\align-box-bottom-left.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\align-box-bottom-right.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\align-box-center-middle.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\align-box-left-bottom.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\align-box-left-middle.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\align-box-left-top.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\align-box-right-bottom.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\align-box-right-middle.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\align-box-right-top.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\align-box-top-center.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\align-box-top-left.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\align-box-top-right.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\analyze.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\apps.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\app-window.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\archive.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\arrow-autofit-content.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\arrow-badge-down.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\arrow-badge-left.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\arrow-badge-right.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\arrow-badge-up.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\arrow-big-down.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\arrow-big-down-line.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\arrow-big-down-lines.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\arrow-big-left.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\arrow-big-left-line.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\arrow-big-left-lines.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\arrow-big-right.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\arrow-big-right-line.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\arrow-big-right-lines.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\arrow-big-up.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\arrow-big-up-line.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\arrow-big-up-lines.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\artboard.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\article.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\aspect-ratio.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\assembly.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\asset.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\atom-2.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\award.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\baby-carriage.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\backspace.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\badge.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\badge-3d.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\badge-4k.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\badge-8k.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\badge-ad.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\badge-ar.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\badge-cc.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\badge-hd.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\badges.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\badge-sd.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\badge-tm.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\badge-vo.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\badge-vr.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\badge-wc.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\balloon.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\ballpen.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\bandage.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\barbell.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\barrier-block.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\basket.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\bath.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\battery.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\battery-1.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\battery-2.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\battery-3.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\battery-4.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\bed.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\bed-flat.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\beer.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\bell.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\bell-minus.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\bell-plus.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\bell-ringing.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\bell-ringing-2.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\bell-x.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\bell-z.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\binary-tree.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\binary-tree-2.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\binoculars.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\biohazard.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\blade.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\blob.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\bomb.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\bone.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\book.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\bookmark.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\bookmarks.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\boom.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\bottle.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\bounce-left.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\bounce-right.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\bow.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\bowl.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\bowl-chopsticks.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\bowl-spoon.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\box-align-bottom.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\box-align-bottom-left.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\box-align-bottom-right.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\box-align-left.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\box-align-right.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\box-align-top.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\box-align-top-left.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\box-align-top-right.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\brand-apple.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\brand-discord.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\brand-dribbble.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\brand-facebook.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\brand-github.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\brand-google.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\brand-patreon.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\brand-paypal.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\brand-spotify.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\brand-tiktok.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\brand-twitter.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\brand-x.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\brand-youtube.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\bread.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\briefcase.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\briefcase-2.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\brightness.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\brightness-auto.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\brightness-down.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\brightness-up.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\bubble.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\bug.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\building-broadcast-tower.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\bulb.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\cactus.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\calculator.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\calendar.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\camera.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\campfire.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\candle.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\capsule.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\capsule-horizontal.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\capture.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\cards.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\caret-down.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\caret-left.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\caret-left-right.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\caret-right.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\caret-up.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\caret-up-down.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\carousel-horizontal.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\carousel-vertical.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\cash-banknote.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\category.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\chart-area.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\chart-area-line.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\chart-bubble.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\chart-candle.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\chart-donut.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\chart-dots.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\chart-grid-dots.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\chart-pie.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\cherry.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\chess.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\chess-bishop.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\chess-king.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\chess-knight.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\chess-queen.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\chess-rook.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-arrow-down.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-arrow-down-left.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-arrow-down-right.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-arrow-left.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-arrow-right.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-arrow-up.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-arrow-up-left.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-arrow-up-right.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-check.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-dot.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-key.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-letter-a.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-letter-b.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-letter-c.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-letter-d.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-letter-e.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-letter-f.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-letter-g.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-letter-h.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-letter-i.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-letter-j.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-letter-k.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-letter-l.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-letter-m.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-letter-n.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-letter-o.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-letter-p.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-letter-q.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-letter-r.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-letter-s.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-letter-t.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-letter-u.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-letter-v.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-letter-w.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-letter-x.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-letter-y.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-letter-z.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-number-0.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-number-1.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-number-2.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-number-3.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-number-4.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-number-5.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-number-6.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-number-7.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-number-8.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-number-9.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-percentage.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-plus.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-rectangle.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circles.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\circle-x.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\clock.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\clock-hour-1.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\clock-hour-2.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\clock-hour-3.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\clock-hour-4.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\clock-hour-5.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\clock-hour-6.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\clock-hour-7.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\clock-hour-8.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\clock-hour-9.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\clock-hour-10.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\clock-hour-11.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\clock-hour-12.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\cloud.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\clubs.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\code-circle.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\code-circle-2.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\coin.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\coin-bitcoin.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\coin-euro.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\coin-monero.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\coin-pound.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\coin-rupee.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\coin-taka.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\coin-yen.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\coin-yuan.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\compass.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\cone.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\cone-2.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\contrast.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\contrast-2.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\cookie.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\cookie-man.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\copy-check.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\copyleft.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\copy-minus.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\copy-plus.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\copyright.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\copy-x.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\credit-card.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\crop-1-1.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\crop-3-2.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\crop-5-4.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\crop-7-5.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\crop-16-9.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\crop-landscape.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\crop-portrait.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\cross.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\device-heart-monitor.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\device-mobile.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\device-tablet.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\dialpad.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\diamond.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\diamonds.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\dice.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\dice-1.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\dice-2.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\dice-3.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\dice-4.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\dice-5.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\dice-6.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\direction-sign.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\droplet.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\droplet-half.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\droplet-half-2.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\egg.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\exclamation-circle.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\eye.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\file.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\file-x.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\filter.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\flag.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\flag-2.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\flag-3.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\flask.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\flask-2.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\folder.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\forbid.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\forbid-2.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\fountain.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\function.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\gauge.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\ghost.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\ghost-2.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\gift.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\gift-card.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\glass-full.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\globe.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\gps.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\graph.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\guitar-pick.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hanger-2.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\headphones.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\heart.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\help-circle.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\help-hexagon.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\help-octagon.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\help-square.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\help-square-rounded.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\help-triangle.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-letter-a.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-letter-b.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-letter-c.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-letter-d.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-letter-e.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-letter-f.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-letter-g.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-letter-h.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-letter-i.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-letter-j.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-letter-k.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-letter-l.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-letter-m.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-letter-n.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-letter-o.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-letter-p.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-letter-q.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-letter-r.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-letter-s.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-letter-t.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-letter-u.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-letter-v.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-letter-w.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-letter-x.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-letter-y.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-letter-z.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-minus.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-number-0.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-number-1.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-number-2.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-number-3.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-number-4.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-number-5.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-number-6.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-number-7.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-number-8.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-number-9.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hexagon-plus.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\home.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hospital-circle.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\hourglass.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\info-circle.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\info-hexagon.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\info-octagon.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\info-square.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\info-square-rounded.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\info-triangle.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\inner-shadow-bottom.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\inner-shadow-bottom-left.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\inner-shadow-bottom-right.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\inner-shadow-left.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\inner-shadow-right.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\inner-shadow-top.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\inner-shadow-top-left.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\inner-shadow-top-right.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\ironing.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\jetpack.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\jewish-star.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\key.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\keyframe.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\keyframe-align-center.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\keyframe-align-horizontal.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\keyframe-align-vertical.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\keyframes.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\label.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\label-important.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\lasso-polygon.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\layout.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\layout-2.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\layout-align-bottom.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\layout-align-center.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\layout-align-left.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\layout-align-middle.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\layout-align-right.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\layout-align-top.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\layout-bottombar.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\layout-bottombar-collapse.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\layout-bottombar-expand.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\layout-cards.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\layout-dashboard.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\layout-distribute-horizontal.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\layout-distribute-vertical.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\layout-grid.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\layout-kanban.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\layout-list.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\layout-navbar.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\layout-navbar-collapse.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\layout-navbar-expand.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\layout-sidebar.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\layout-sidebar-left-collapse.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\layout-sidebar-left-expand.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\layout-sidebar-right.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\layout-sidebar-right-collapse.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\layout-sidebar-right-expand.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\lego.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\live-photo.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\location.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\lock.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\lock-square-rounded.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\lungs.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\macro.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\magnet.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\mail.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\mail-opened.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\man.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\manual-gearbox.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\map-pin.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\medical-cross.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\message.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\message-chatbot.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\message-circle.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\message-report.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\mickey.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\microphone.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\microwave.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\military-rank.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\mood-angry.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\mood-confuzed.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\mood-crazy-happy.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\mood-empty.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\mood-happy.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\mood-kid.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\mood-neutral.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\mood-sad.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\mood-smile.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\mood-wrrr.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\moon.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\mouse.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\mushroom.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\navigation.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\octagon.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\oval.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\oval-vertical.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\paint.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\panorama-horizontal.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\panorama-vertical.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\parking-circle.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\paw.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\pennant.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\pennant-2.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\pentagon.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\phone.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\photo.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\picture-in-picture.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\picture-in-picture-top.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\pill.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\pin.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\pinned.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\player-eject.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\player-pause.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\player-play.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\player-record.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\player-skip-back.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\player-skip-forward.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\player-stop.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\player-track-next.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\player-track-prev.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\point.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\pointer.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\polaroid.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\poo.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\presentation.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\presentation-analytics.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\puzzle.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\radar.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\radioactive.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\receipt.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\rectangle.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\rectangle-vertical.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\relation-many-to-many.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\relation-one-to-many.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\relation-one-to-one.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\replace.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\rosette.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\rosette-discount.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\rosette-discount-check.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\scuba-diving-tank.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\section.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\settings.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\shield.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\shield-check.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\shield-checkered.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\shield-half.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\shield-lock.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\shirt.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\shopping-cart.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\sign-left.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\sign-right.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\sort-ascending-2.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\sort-ascending-shapes.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\sort-descending-2.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\sort-descending-shapes.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\soup.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\spade.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-arrow-down.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-arrow-left.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-arrow-right.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-arrow-up.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-asterisk.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-check.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-chevron-down.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-chevron-left.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-chevron-right.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-chevrons-down.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-chevrons-left.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-chevrons-right.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-chevrons-up.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-chevron-up.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-dot.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-f0.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-f1.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-f2.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-f3.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-f4.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-f5.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-f6.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-f7.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-f8.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-f9.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-letter-a.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-letter-b.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-letter-c.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-letter-d.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-letter-e.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-letter-f.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-letter-g.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-letter-h.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-letter-i.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-letter-j.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-letter-k.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-letter-l.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-letter-m.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-letter-n.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-letter-o.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-letter-p.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-letter-q.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-letter-r.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-letter-s.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-letter-t.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-letter-u.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-letter-v.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-letter-w.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-letter-x.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-letter-y.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-letter-z.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-minus.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-number-0.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-number-1.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-number-2.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-number-3.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-number-4.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-number-5.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-number-6.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-number-7.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-number-8.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-number-9.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rotated.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-arrow-down.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-arrow-left.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-arrow-right.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-arrow-up.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-check.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-chevron-down.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-chevron-left.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-chevron-right.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-chevrons-down.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-chevrons-left.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-chevrons-right.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-chevrons-up.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-chevron-up.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-letter-a.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-letter-b.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-letter-c.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-letter-d.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-letter-e.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-letter-f.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-letter-g.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-letter-h.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-letter-i.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-letter-j.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-letter-k.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-letter-l.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-letter-m.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-letter-n.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-letter-o.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-letter-p.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-letter-q.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-letter-r.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-letter-s.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-letter-t.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-letter-u.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-letter-v.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-letter-w.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-letter-x.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-letter-y.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-letter-z.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-minus.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-number-0.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-number-1.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-number-2.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-number-3.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-number-4.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-number-5.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-number-6.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-number-7.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-number-8.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-number-9.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-plus.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-rounded-x.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\squares.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\square-x.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\stack.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\stack-2.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\stack-3.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\star.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\star-half.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\stars.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\steering-wheel.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\sun.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\sunglasses.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\swipe-down.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\swipe-left.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\swipe-right.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\swipe-up.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\table.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\tag.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\tags.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\test-pipe-2.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\thumb-down.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\thumb-up.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\tilt-shift.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\timeline-event.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\toggle-left.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\toggle-right.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\transform.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\transition-bottom.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\transition-left.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\transition-right.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\transition-top.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\trash.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\trash-x.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\triangle.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\triangle-inverted.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\triangle-square-circle.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\trophy.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\umbrella.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\user.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\versions.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\windmill.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\woman.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\xbox-a.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\xbox-b.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\xbox-x.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\xbox-y.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\yin-yang.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\zeppelin.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\zoom.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\zoom-cancel.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\zoom-check.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\zoom-code.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\zoom-exclamation.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\zoom-in.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\zoom-in-area.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\zoom-money.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\zoom-out.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\zoom-out-area.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\zoom-pan.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\zoom-question.svg">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\filled\zoom-scan.svg">
+      <Filter>Assets</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Text Include="readme.txt" />
   </ItemGroup>
   <ItemGroup>
     <Page Include="MainPage.xaml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="Assets\ChakraPetch-Bold.ttf">
+      <Filter>Assets</Filter>
+    </Font>
+    <Font Include="Assets\ChakraPetch-BoldItalic.ttf">
+      <Filter>Assets</Filter>
+    </Font>
+    <Font Include="Assets\ChakraPetch-Italic.ttf">
+      <Filter>Assets</Filter>
+    </Font>
+    <Font Include="Assets\ChakraPetch-Light.ttf">
+      <Filter>Assets</Filter>
+    </Font>
+    <Font Include="Assets\ChakraPetch-LightItalic.ttf">
+      <Filter>Assets</Filter>
+    </Font>
+    <Font Include="Assets\ChakraPetch-Medium.ttf">
+      <Filter>Assets</Filter>
+    </Font>
+    <Font Include="Assets\ChakraPetch-MediumItalic.ttf">
+      <Filter>Assets</Filter>
+    </Font>
+    <Font Include="Assets\ChakraPetch-Regular.ttf">
+      <Filter>Assets</Filter>
+    </Font>
+    <Font Include="Assets\ChakraPetch-SemiBold.ttf">
+      <Filter>Assets</Filter>
+    </Font>
+    <Font Include="Assets\ChakraPetch-SemiBoldItalic.ttf">
+      <Filter>Assets</Filter>
+    </Font>
   </ItemGroup>
 </Project>
